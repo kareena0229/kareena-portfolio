@@ -132,4 +132,4 @@ This portfolio is deployed using **GitHub Pages**.
 
 ## ⭐ Support
 
-If you like this portfolio, consider giving the repository a ⭐ on GitHub. 
+If you like this portfolio, consider giving the repository a ⭐ on GitHub.
